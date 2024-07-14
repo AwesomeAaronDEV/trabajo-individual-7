@@ -3,5 +3,4 @@ Módulo 1: Programación en JavaScript
 
 Módulo 2: Lenguaje de consultas a una Base de Datos
 
-Módulo 3: Fundamentos de Desarrollo Web 
-
+Módulo 3: Fundamentos de Desarrollo Web
